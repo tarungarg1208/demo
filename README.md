@@ -9,3 +9,5 @@ NEW CHANGES
 4th change commit -a
 
 index.html added 1st commit for this file
+
+head tag added
